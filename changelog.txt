@@ -1,0 +1,24 @@
+[B]Version 0.0.6.8 - 2014-10-13[/B]
+- Fix for KODI
+[B]Version 0.0.6.7 - 2013-03-07[/B]
+- Fix for FRODO - For some odd reason, the script didn't work properly.
+[B]Version 0.0.6.6 - 2013-02-20[/B]
+- XML feed removed / replaced by JSON - seems faster, you might not notice.
+- Settings doesn't work.
+[B]Version 0.0.6.1 - 2012-09-09[/B]
+- unnecessary additions have been removed
+- Error-handling enabled
+[B]Version 0.0.6 - 2012-09-09[/B]
+- All code has been rewritten
+- Google's API didn't seem to like requests from inside XBMC.
+[B]Version 0.0.5 - 2012-09-06[/B]
+- No fanart (background) picture was shown. Fixed
+- Clips wasn't sorted by published date. Fixed
+- Program still doesn't reload. Requires the user restarting the program after each clip. I am working on It!
+- GPL-GNU-License was not included. Fixed!
+[B]Version 0.0.4 - 2012-09-04[/B]
+- Left Clicking Solved - program still crashes, if opened more than once.
+[B]Version 0.0.3 - 2012-09-04[/B]
+- Videofeed works, requires the youtube-plugin and doesn't work while left-clicking
+[B]Version 0.0.2 - 2012-08-27[/B]
+- Not working

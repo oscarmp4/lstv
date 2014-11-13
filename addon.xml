@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<addon id="addon.video.livingsmarttvdk"
+                version="0.0.6.8"
+                name="LivingSmartTV.dk"
+                provider-name="THN [@lokaltudsving Twitter]">
+        <requires>
+                <import addon="xbmc.python" version="2.1.0"/>
+        </requires>
+        <extension point="xbmc.python.pluginsource" library="addon.py">
+                <provides>video</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <platform>all</platform>
+                <summary lang="en">Series, videos and more from Kenneth WedMore Lund, LivingSmartTv.dk</summary>
+                <summary lang="da">Udsendelser, video og mere fra Kenneth WedMore Lund, LivingSmartTv.dk</summary>
+                <description lang="en">Livingsmarttv.dk is overall video platform for all sites belonging to Kenneth WedMore Lund, Copyright 2012. Feel free visiting the author of the videos webpage at http://www.livingsmarttv.dk. In order to play the videos, you will be forced to download the youtube plugin. This plugin have been brought to you by the power of free will. If you want to help, making it better, feel free contacting me.</description>
+                <description lang="da">Livingsmarttv.dk er overordnet videoplatform for alle sites tilhørende Kenneth WedMore Lund, Copyright 2012. Du kan besøge hjemmesiden på http://http://www.livingsmarttv.dk. Al video bliver hentet via youtube, du vil derfor også blive bedt om, at hente youtube's tilføjelse. Dette plugin er lavet af fri vilje, hvis du vil hjælpe, så skriv til mig på Twitter.</description>
+                <disclaimer lang="en">All content belongs to YouTube and the owner. Please notice, that all content can be removed at any given time.</disclaimer>
+        <disclaimer lang="da">Alt indhold tilhører YouTube og Uploaderen. Alt indhold kan blive fjernet uden varsel. </disclaimer>
+                <license>GPL 2.0</license>
+        </extension>
+</addon>
